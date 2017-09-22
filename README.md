@@ -10,5 +10,7 @@ Javascript dependencies:
   <script async src="https://cdn.ampproject.org/v0.js"></script>
 ```
 
-It is a codelabs exemple created in the workshop about AMP Roadshow Toronto  at (Google Toronto) <br>
+It is a codelabs exemple created in the workshop about AMP Roadshow Toronto  at (GOOGLE) <br>
 [Demo here](http://onclickmidia.net/amp/) 
+
+
